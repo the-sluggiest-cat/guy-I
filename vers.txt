@@ -1,0 +1,10 @@
+welcome to guy. version 1.4
+---------------------------
+
+bugfixes:
+features:
+- "woe, rot be upon ye" picture
+- nword filter
+- message deletion/editing
+todos:
+suggestions:

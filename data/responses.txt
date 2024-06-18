@@ -1,0 +1,48 @@
+p||mwa"Thanks.
+p||love"Thanks.
+p||fuck you"That's very rude.
+p||rate"rand;0/10'1/10'2/10'3/10'4/10'5/10'6/10'7/10'8/10'9/10'10/10'What is wrong with you?
+p||rating"rand;0/10'1/10'2/10'3/10'4/10'5/10'6/10'7/10'8/10'9/10'10/10'What is wrong with you?
+p||key"What, *me* keys? I'm sorry, do I look like <@434805711625519105>?
+p||guy"What?
+p||scug pelt"What the fuck is wrong with you.
+p||scug"I'm not that pisscat, don't ask me about him.
+p||doggo"He's cool.
+p||beeta"He's cool.
+p||zazawarrior"He's cool.
+p||zaza"Hit that good kush.
+p||coward"Rude.
+p||hi"Hello.
+p||hello"Hello.
+p||hate you"That's rather mean.
+p||how are you"rand;I'm good.'Doing well.'Fine, how about you?'Better with people like you.
+p||do you like"rand;Yeah.'Nah.'Yes.'No.'Kinda.'Why are you asking me this.
+m||would you lose"Nah, I'd win.
+m||john ultrakill"f;big john.png
+m||bbg"bbg...... daddys home......... takes off jacket, hello princess........ hahahaha*haaaah* f;bbg.png
+m||enot"f;enot.png
+m||inv"f;enot.png
+m||paincat"f;enot.png
+m||sofanthiel"f;enot.png
+m||gorbo"f;enot.png
+m||machinist"A*hem*. I'm a *machine*. You machinist against me, _AUTHOR? Are you?
+m||sain't"SLUGCAT MENTIONED f;scug.png
+m||scug"SLUGCAT MENTIONED f;scug.png
+m||yellow saint"SLUGCAT MENTIONED f;scug.png
+m||yellowsaint"SLUGCAT MENTIONED f;scug.png
+m||434805711625519105"SLUGCAT MENTIONED f;scug.png
+m||karma 2"Do I need to get the keys?
+m||explosive enlightenment"https://www.youtube.com/watch?v=OJhbbY_R3Yo
+m||explosive enlightment"https://www.youtube.com/watch?v=OJhbbY_R3Yo
+m||the guy in question"f;guy.png
+m||do not be afraid"This is the scariest moment of my life.
+m||dogship"rand;Hotdog = GuardDoggo x Inv/Enot/Paincat/Sofanthiel/Gorbo/???'Warhound = GuardDoggo x Artificer'Nighthowler = GuardDoggo x Nightcat'Sheepdog = GuardDoggo x Survivor'Bloodhound = GuardDoggo x Hunter'Dogtreat = GuardDoggo x Gourmand'Seal = GuardDoggo x Rivulet'Toothless = GuardDoggo x Spearmaster'Poodle = GuardDoggo x Saint'Boston Dynamics = GuardDoggo x iPad
+m||find the guy"f;the guy.png
+m||earthmover"f;earthmover.webp
+m||benjamin"f;earthmover.webp
+m||1000-thr"f;earthmover.webp
+m||i hate guy"Mean.
+m||i like guy"Thanks.
+m||i love guy"Thanks.
+m||shut up guy"Rude.
+m||plans"God fucking damn it.
